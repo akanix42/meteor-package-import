@@ -1,0 +1,17 @@
+{
+  "name": "meteor-package-import",
+  "version": "0.0.1",
+  "description": "Helper package to enable Meteor-style imports for Meteor packages from npm packages",
+  "repository": "https://github.com/nathantreid/meteor-package-import",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [],
+  "author": "Nathan Reid",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/core-js": "^0.9.39",
+    "@types/node": "^9.4.7",
+    "core-js": "^2.4.1",
+    "typescript": "^2.5.2"
+  }
+}
