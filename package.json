@@ -1,6 +1,6 @@
 {
   "name": "meteor-package-import",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper package to enable Meteor-style imports for Meteor packages from npm packages",
   "repository": "https://github.com/nathantreid/meteor-package-import",
   "main": "dist/index.js",

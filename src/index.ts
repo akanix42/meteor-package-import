@@ -1,4 +1,6 @@
-export default function importPackage(packageName: string) {
+module.exports = importPackage;
+
+function importPackage(packageName: string) {
   packageName = getPackageName(packageName);
   const meteorPackage = global.Package[packageName];
   if (meteorPackage === undefined) {
